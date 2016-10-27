@@ -1,2 +1,2 @@
-# odin
+# Odin
 Scss framework
